@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Gestor contraseñas.exe
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Gestor contraseñas.deps.json
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Gestor contraseñas.runtimeconfig.json
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Gestor contraseñas.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Gestor contraseñas.pdb
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor_contraseñas.Form1.resources
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.csproj.GenerateResource.cache
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.AssemblyInfo.cs
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\refint\Gestor contraseñas.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.pdb
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.genruntimeconfig.cache
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\ref\Gestor contraseñas.dll
