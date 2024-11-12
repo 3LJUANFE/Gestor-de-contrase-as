@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestor contraseñas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4e32c1f4350a621dd4ac77d0d8afcef45116e85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestor contraseñas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestor contraseñas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

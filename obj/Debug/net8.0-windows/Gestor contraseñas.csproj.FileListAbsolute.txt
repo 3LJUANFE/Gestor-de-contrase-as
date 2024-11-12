@@ -14,3 +14,5 @@ C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.pdb
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.genruntimeconfig.cache
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\ref\Gestor contraseñas.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor_contraseñas.Form2.resources
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.sourcelink.json
