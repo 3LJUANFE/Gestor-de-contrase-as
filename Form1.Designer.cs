@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             tbx1 = new TextBox();
             btn1 = new Button();
@@ -39,7 +40,8 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(139, 145);
+            label1.ForeColor = SystemColors.ButtonFace;
+            label1.Location = new Point(142, 163);
             label1.Name = "label1";
             label1.Size = new Size(104, 20);
             label1.TabIndex = 0;
@@ -47,26 +49,30 @@
             // 
             // tbx1
             // 
-            tbx1.Location = new Point(118, 189);
+            tbx1.Location = new Point(97, 208);
             tbx1.Name = "tbx1";
             tbx1.PasswordChar = '*';
-            tbx1.Size = new Size(159, 27);
+            tbx1.Size = new Size(190, 27);
             tbx1.TabIndex = 1;
             // 
             // btn1
             // 
-            btn1.Location = new Point(139, 305);
+            btn1.BackColor = SystemColors.ActiveCaption;
+            btn1.FlatStyle = FlatStyle.Popup;
+            btn1.ForeColor = SystemColors.ButtonFace;
+            btn1.Location = new Point(142, 323);
             btn1.Name = "btn1";
             btn1.Size = new Size(104, 35);
             btn1.TabIndex = 2;
             btn1.Text = "VERIFICAR";
-            btn1.UseVisualStyleBackColor = true;
+            btn1.UseVisualStyleBackColor = false;
             btn1.Click += btn1_Click;
             // 
             // checkOcultar
             // 
             checkOcultar.AutoSize = true;
-            checkOcultar.Location = new Point(144, 244);
+            checkOcultar.ForeColor = SystemColors.ButtonFace;
+            checkOcultar.Location = new Point(147, 262);
             checkOcultar.Name = "checkOcultar";
             checkOcultar.Size = new Size(99, 24);
             checkOcultar.TabIndex = 4;
@@ -76,8 +82,8 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.ImageLocation = "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contraseñas\\img\\img1.png";
-            pictureBox1.Location = new Point(139, 55);
+            pictureBox1.ImageLocation = "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contraseñas\\img\\logo-candado.png";
+            pictureBox1.Location = new Point(142, 73);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(104, 87);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -88,16 +94,18 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaptionText;
             ClientSize = new Size(382, 453);
             Controls.Add(pictureBox1);
             Controls.Add(checkOcultar);
             Controls.Add(btn1);
             Controls.Add(tbx1);
             Controls.Add(label1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Inicia Sesión";
+            Text = "Inicia sesión";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

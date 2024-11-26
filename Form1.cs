@@ -1,9 +1,11 @@
+using Microsoft.Extensions.Configuration;
+
 namespace Gestor_contraseñas
 {
     public partial class Form1 : Form
     {
-        private string pass = "1243";
         private int errores = 0;
+        Clases.ConfiguracionProteccion configuracionProteccion = new Clases.ConfiguracionProteccion();  
 
         public Form1()
         {
@@ -14,6 +16,8 @@ namespace Gestor_contraseñas
 
         public void abrirForm2()
         {
+            var configuration = configuracionProteccion.configuration();
+            string pass = configuration["EncryptionSettings:SecretPass"];
             if (pass == tbx1.Text)
             {
                 MessageBox.Show("La clave es correcta");

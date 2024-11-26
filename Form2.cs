@@ -1,22 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace Gestor_contraseñas
 {
     public partial class Form2 : Form
     {
+        // Llamo la clase para gestionar las contraseñas
+        Clases.GestionDeContraseñas gestionDeContraseñas = new Clases.GestionDeContraseñas();
         private String tarea;
         public Form2()
         {
             this.KeyPreview = true;
             this.KeyDown += new KeyEventHandler(Form2_KeyDown);
+            this.MouseDown += new MouseEventHandler(Form2_MouseDown);
             InitializeComponent();
         }
 
@@ -25,6 +20,16 @@ namespace Gestor_contraseñas
             if (e.KeyCode == Keys.Escape)
             {
                 this.Close();
+            }
+        }
+
+        private void Form2_MouseDown(object sender, MouseEventArgs e)
+        {
+            // Verificar si el clic fue fuera del ListBox
+            if (!lbx1.ClientRectangle.Contains(lbx1.PointToClient(Cursor.Position)))
+            {
+                // Deseleccionar el ítem en el ListBox
+                lbx1.ClearSelected();
             }
         }
 
@@ -39,6 +44,7 @@ namespace Gestor_contraseñas
             {
                 tarea = tbx1.Text;
                 lbx1.Items.Add(tarea);
+                tbx1.Clear();
             }
         }
 
@@ -55,5 +61,24 @@ namespace Gestor_contraseñas
             }
         }
 
+        private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            //Aqui va la funcion de guardas las contraseñas
+            gestionDeContraseñas.guardarContraseñas(lbx1);
+        }
+
+        private void gargarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ;
+            List<string> items = gestionDeContraseñas.cargarContraseñas();
+
+            lbx1.Items.Clear();
+
+            foreach (var item in items)
+            {
+                lbx1.Items.Add(item);
+            }
+        }
     }
 }

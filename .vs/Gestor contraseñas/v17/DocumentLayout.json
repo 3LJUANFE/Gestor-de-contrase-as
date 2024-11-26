@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|c:\\users\\felip\\desktop\\cosas\\programacion\\c#\\gestor contrase\u00F1as\\clases\\gestiondecontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:clases\\gestiondecontrase\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|c:\\users\\felip\\desktop\\cosas\\programacion\\c#\\gestor contrase\u00F1as\\base.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:base.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|c:\\users\\felip\\desktop\\cosas\\programacion\\c#\\gestor contrase\u00F1as\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|c:\\users\\felip\\desktop\\cosas\\programacion\\c#\\gestor contrase\u00F1as\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|c:\\users\\felip\\desktop\\cosas\\programacion\\c#\\gestor contrase\u00F1as\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA726154-4472-491E-A0FE-1D4E5C14094E}|Gestor contrase\u00F1as.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:32:57.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:32:31.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GestionDeContrase\u00F1as.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Clases\\GestionDeContrase\u00F1as.cs",
+              "RelativeDocumentMoniker": "Clases\\GestionDeContrase\u00F1as.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Clases\\GestionDeContrase\u00F1as.cs",
+              "RelativeToolTip": "Clases\\GestionDeContrase\u00F1as.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:16:09.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:02:50.148Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.txt",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Base.txt",
+              "RelativeDocumentMoniker": "Base.txt",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Base.txt",
+              "RelativeToolTip": "Base.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T03:24:36.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -31,19 +111,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T20:01:54.866Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\felip\\Desktop\\Cosas\\Programacion\\C#\\Gestor contrase\u00F1as\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAqwDUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:03:08.772Z",
-              "EditorCaption": ""
             }
           ]
         }

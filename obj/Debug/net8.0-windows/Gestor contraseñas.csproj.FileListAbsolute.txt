@@ -16,3 +16,18 @@ C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\ref\Gestor contraseñas.dll
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor_contraseñas.Form2.resources
 C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.sourcelink.json
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor contraseñas.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor c.1FC26E9F.Up2Date
+C:\Users\felip\Desktop\Cosas\Programacion\C#\Gestor contraseñas\obj\Debug\net8.0-windows\Gestor_contraseñas.Properties.Resources.resources
